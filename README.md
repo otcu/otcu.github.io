@@ -1,3 +1,5 @@
-# Otcu Online Collection Of Stuff
+# [Otcu](https://otcu.github.io/)
+
 ## Created 15-JAN-2023
-### Self-challenge: ⚠️ DO NOT DELETE
+
+
